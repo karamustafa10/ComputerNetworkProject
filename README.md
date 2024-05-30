@@ -3,7 +3,7 @@
 **MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ**  
 **BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ**  
 **BİLGİSAYAR AĞLARI DERSİ DÖNEM PROJESİ**  
-
+**2023-2024	BAHAR DÖNEMİ**    
 
 
 ## TAKIM ÜYELERİ:
@@ -19,13 +19,13 @@
 
 
 
-2023-2024	BAHAR DÖNEMİ
+
 1-) GİRİŞ
 
 Kablosuz iletişim teknolojileri, günümüzde giderek artan bir öneme sahiptir ve çeşitli endüstrilerde geniş bir kullanım alanı bulmaktadır. Bu teknolojilerin performansı, özellikle hareketlilik gibi faktörlerden etkilenebilmektedir. Bu nedenle, bu araştırma hareketliliğin kablosuz haberleşme teknolojilerinin performansı üzerindeki etkisini incelemeyi amaçlamaktadır.
 Bu araştırmanın temel amacı LoRaWAN kablosuz haberleşme teknolojisinin  hareketlilik düzeyine bağlı olarak performansının nasıl değiştiğini anlamaktır. Performans metrikleri olarak, Packet Delivery Rate (PDR - paket teslimat oranı) ve gecikme süresi (paket ulaşma zamanı ile paket gönderim zamanı arasındaki fark) kullanılacaktır. PDR, iletilen paketlerin ne kadarının başarıyla ulaştığını gösterirken, gecikme süresi ise iletilen paketlerin ne kadar sürede hedefe ulaştığını gösterir.
 Bu araştırmanın önemi, kablosuz iletişim teknolojilerinin pratik uygulamalarında performansın belirlenmesinde ve iyileştirilmesinde rehberlik sağlamasıdır. Hareketlilik gibi gerçek dünya koşullarının performansı nasıl etkilediğini anlamak, bu teknolojilerin daha güvenilir ve etkili hale getirilmesine katkı sağlayabilir.
-LoRaWAN kablosuz haberleşme teknolojisinin önemi, araştırma kapsamında belirli bir teknolojinin seçilmesiyle belirlenmiştir. Bu teknolojiler, farklı endüstrilerde geniş bir kullanım alanına sahiptir ve farklı özelliklere sahiptirler. Örneğin, 5G yüksek bant genişliği ve düşük gecikme süresi sunarken, LoRaWAN uzun menzilli iletişim ve düşük güç tüketimi sağlar. Bu özellikler, her bir teknolojinin belirli kullanım senaryolarında avantajlı olmasını sağlar. Seçilen teknolojinin neden bu araştırmada tercih edildiği, hareketlilik etkisinin belirli bir teknoloji üzerindeki etkisini anlamak ve karşılaştırmak için kapsamlı bir temel sağlamasıdır.
+LoRaWAN kablosuz haberleşme teknolojisinin önemi, araştırma kapsamında belirli bir teknolojinin seçilmesiyle belirlenmiştir. Bu teknolojiler, farklı endüstrilerde geniş bir kullanım alanına sahiptir ve farklı özelliklere sahiptirler. Örneğin, 5G yüksek bant genişliği ve düşük gecikme süresi sunarken, LoRaWAN uzun menzilli iletişim ve düşük güç tüketimi sağlar. Bu özellikler, her bir teknolojinin belirli kullanım senaryolarında avantajlı olmasını sağlar. Seçilen teknolojinin neden bu araştırmada tercih edildiği, hareketlilik etkisinin belirli bir teknoloji üzerindeki etkisini anlamak ve karşılaştırmak için kapsamlı bir temel sağlamasıdır.    
 
 
 
@@ -37,12 +37,12 @@ LoRaWAN kablosuz haberleşme teknolojisinin önemi, araştırma kapsamında beli
 
 2-) LİTERATÜR DERLEMESİ  
 2.1-) Kablosuz Haberleşme Teknolojileri ve Hareketlilik Arasındaki İlişkinin Literatürdeki Durumu
-Kablosuz iletişim teknolojilerinin gelişimi, mobil cihazların yaygınlaşmasıyla birlikte hareketlilikle bağlantılı önemli bir araştırma alanı haline gelmiştir. Literatür, kablosuz haberleşme teknolojilerinin hareketli ortamlarda nasıl performans gösterdiğini anlamaya yönelik birçok çalışma içermektedir. Özellikle, LoRaWAN gibi uzun menzilli düşük güç tüketimli teknolojilerin hareketli nesnelerle iletişimde nasıl başarılı olduğunu inceleyen araştırmalar bulunmaktadır.
+Kablosuz iletişim teknolojilerinin gelişimi, mobil cihazların yaygınlaşmasıyla birlikte hareketlilikle bağlantılı önemli bir araştırma alanı haline gelmiştir. Literatür, kablosuz haberleşme teknolojilerinin hareketli ortamlarda nasıl performans gösterdiğini anlamaya yönelik birçok çalışma içermektedir. Özellikle, LoRaWAN gibi uzun menzilli düşük güç tüketimli teknolojilerin hareketli nesnelerle iletişimde nasıl başarılı olduğunu inceleyen araştırmalar bulunmaktadır.  
 2.2-) PDR ve Gecikme Metriklerinin Kablosuz Ağ Performansının Ölçülmesindeki Rolü
-PDR ve gecikme süresi, kablosuz ağların performansını değerlendirmek için temel metriklerdir. PDR, iletilen paketlerin ne kadarının başarıyla hedefe ulaştığını gösterirken, gecikme süresi ise iletilen paketlerin ne kadar sürede hedefe ulaştığını belirler. Bu metrikler, kablosuz ağların güvenilirliğini, verimliliğini ve kalitesini değerlendirmede kritik öneme sahiptir. Özellikle LoRaWAN gibi uzun menzilli teknolojilerde, düşük güç tüketimi ve geniş kapsama alanı gibi özelliklerle birlikte PDR ve gecikme süresi, ağın performansını belirlemede önemli bir role sahiptir.
+PDR ve gecikme süresi, kablosuz ağların performansını değerlendirmek için temel metriklerdir. PDR, iletilen paketlerin ne kadarının başarıyla hedefe ulaştığını gösterirken, gecikme süresi ise iletilen paketlerin ne kadar sürede hedefe ulaştığını belirler. Bu metrikler, kablosuz ağların güvenilirliğini, verimliliğini ve kalitesini değerlendirmede kritik öneme sahiptir. Özellikle LoRaWAN gibi uzun menzilli teknolojilerde, düşük güç tüketimi ve geniş kapsama alanı gibi özelliklerle birlikte PDR ve gecikme süresi, ağın performansını belirlemede önemli bir role sahiptir.  
 2.3-) 5G ve LoRaWAN Gibi Önerilen Teknolojilerin Özellikleri ve Kullanım Alanları
 LoRaWAN, uzun menzilli ve düşük güç tüketimli kablosuz iletişim için tasarlanmış özel bir protokoldür. Endüstriyel IoT (Nesnelerin İnterneti) uygulamaları için idealdir ve genellikle tarım, akıllı şehirler, akıllı bina otomasyonu gibi alanlarda kullanılır. LoRaWAN, geniş kapsama alanı sağlayarak uzak nesnelerle iletişim kurabilir ve düşük güç tüketimi sayesinde uzun pil ömrü sunar.
-Literatürde, LoRaWAN'ın hareketli ortamlarda nasıl performans gösterdiği üzerine çalışmalar bulunmaktadır. Bu çalışmalar, LoRaWAN'ın geniş kapsama alanı ve düşük güç tüketimi avantajlarını vurgulamakta ve özellikle IoT uygulamalarının hareketli ortamlardaki gereksinimlerini karşılayabildiğini göstermektedir. Bu nedenle, bu araştırma LoRaWAN'ın hareketlilikle ilişkili performansını daha ayrıntılı bir şekilde incelemeyi amaçlamaktadır.
+Literatürde, LoRaWAN'ın hareketli ortamlarda nasıl performans gösterdiği üzerine çalışmalar bulunmaktadır. Bu çalışmalar, LoRaWAN'ın geniş kapsama alanı ve düşük güç tüketimi avantajlarını vurgulamakta ve özellikle IoT uygulamalarının hareketli ortamlardaki gereksinimlerini karşılayabildiğini göstermektedir. Bu nedenle, bu araştırma LoRaWAN'ın hareketlilikle ilişkili performansını daha ayrıntılı bir şekilde incelemeyi amaçlamaktadır.    
 
 
 
