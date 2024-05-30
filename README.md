@@ -1,16 +1,16 @@
 # ComputerNetworkProject
-# BURSA TEKNİK ÜNİVERSİTESİ
-# MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ
+# BURSA TEKNİK ÜNİVERSİTESİ <br
+# MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ  
 # BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
 
 
 
 
-#BİLGİSAYAR AĞLARI DERSİ DÖNEM PROJESİ
+# BİLGİSAYAR AĞLARI DERSİ DÖNEM PROJESİ
 
 
 
-##TAKIM ÜYELERİ:
+## TAKIM ÜYELERİ:
 - Mehmet Taha MEHEL - 21360859068
 - Semih KARAMUSTAFA - 20360859054
 - Mustafa Semih BULUT - 20360859022
@@ -39,7 +39,7 @@ LoRaWAN kablosuz haberleşme teknolojisinin önemi, araştırma kapsamında beli
 
 
 
-2-) LİTERATÜR DERLEMESİ
+2-) LİTERATÜR DERLEMESİ  
 2.1-) Kablosuz Haberleşme Teknolojileri ve Hareketlilik Arasındaki İlişkinin Literatürdeki Durumu
 Kablosuz iletişim teknolojilerinin gelişimi, mobil cihazların yaygınlaşmasıyla birlikte hareketlilikle bağlantılı önemli bir araştırma alanı haline gelmiştir. Literatür, kablosuz haberleşme teknolojilerinin hareketli ortamlarda nasıl performans gösterdiğini anlamaya yönelik birçok çalışma içermektedir. Özellikle, LoRaWAN gibi uzun menzilli düşük güç tüketimli teknolojilerin hareketli nesnelerle iletişimde nasıl başarılı olduğunu inceleyen araştırmalar bulunmaktadır.
 2.2-) PDR ve Gecikme Metriklerinin Kablosuz Ağ Performansının Ölçülmesindeki Rolü
