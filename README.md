@@ -1,12 +1,8 @@
 # ComputerNetworkProject
-# BURSA TEKNİK ÜNİVERSİTESİ <br
-# MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ  
-# BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-
-
-
-
-# BİLGİSAYAR AĞLARI DERSİ DÖNEM PROJESİ
+**BURSA TEKNİK ÜNİVERSİTESİ**  
+**MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ**  
+**BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ**  
+**BİLGİSAYAR AĞLARI DERSİ DÖNEM PROJESİ**  
 
 
 
