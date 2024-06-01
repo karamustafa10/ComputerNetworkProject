@@ -72,8 +72,13 @@ Bu kod, bir LoRaWAN ağının basit bir simülasyonunu gerçekleştirir ve simü
  
 Şekil 1 : Kod içeriği ve Çıktısı
 
+![image](https://github.com/karamustafa10/ComputerNetworkProject/assets/91965302/8dcb3e2f-5232-4d4d-a632-8178a2b611a1)
+
  
 Şekil 2 : XML Çıktısı
+
+![image](https://github.com/karamustafa10/ComputerNetworkProject/assets/91965302/17934529-f73b-4ce6-b158-db7e92187a91)
+
 
 
 XML Başlangıcı ve Kodlama Bilgisi: XML belgesinin başlangıcı, belgenin XML sürümünü ve karakter kodlamasını belirtir.
